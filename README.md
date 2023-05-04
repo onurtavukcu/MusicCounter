@@ -1,3 +1,3 @@
 # MusicCounter 
-##for More 
+## For More 
 > https://github.com/onurtavukcu
